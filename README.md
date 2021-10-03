@@ -11,6 +11,7 @@ java –jar multiplica.jar [-t] [-h] [fichero_entrada] [fichero_salida]
 Los argumentos son los siguientes:
 
 • -t: traza cada paso de manera que se describa la descomposición en sub-numeros
+
 • -h: muestra una ayuda y la sintaxis del comando. 
 
 Por ejemplo:
