@@ -62,39 +62,22 @@ etc.
 Con la opción “-g” el fichero de datos de salida será un tablero con las reinas indicadas con “R” y escrito en tipografía de ancho fijo para que sea legible. Por ejemplo:
 
 ---------------------------------
-
 8 | * | R | * | | * | | * | |
-
 -----------------------------------
-
 7 | | * | | * | | * | R | * |
-
 -----------------------------------
-
 6 | * | | * | | R | | * | |
-
 -----------------------------------
-
 5 | | * | | * | | * | | R |
-
 -----------------------------------
-
 4 | R | | * | | * | | * | |
-
 -----------------------------------
-
 3 | | * | | R | | * | | * |
-
 -----------------------------------
-
 2 | * | | * | | * | R | * | |
-
 -----------------------------------
-
 1 | | * | R | * | | * | | * |
-
 -----------------------------------
-
 a b c d e f g h
 
 En general se deja a criterio del alumno la representación gráfica, siempre que sea suficientemente clara y visual. También se deja a criterio del alumno qué se hace para
