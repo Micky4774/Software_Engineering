@@ -21,9 +21,11 @@ SINTAXIS:
 
 multiplica [-t][-h] [fichero_entrada] [fichero_salida]
 
--t Traza
--h Muestra esta ayuda
-fichero_salida Nombre del fichero de salida
+• -t: Traza
+  
+• -h: Muestra esta ayuda
+  
+• fichero_salida: Nombre del fichero de salida
 
 Si no se proporciona el argumento correspondiente al fichero de salida el programa usará la salida estándar.
 
