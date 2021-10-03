@@ -1,6 +1,8 @@
 # Software_Engineering-Algorithmics
 Este Repositorio tiene un propósito estrictamente profesional de promoción laboral a través de la comunidad GitHub.
 
+1.- DESCRIPCIÓN:
+
 El programa se invoca usando la siguiente sintaxis:
 
 java multiplica [-t][-h] [fichero_entrada] [fichero_salida]
@@ -31,7 +33,9 @@ multiplica [-t][-h] [fichero_entrada] [fichero_salida]
 
 Si no se proporciona el argumento correspondiente al fichero de salida el programa usará la salida estándar.
 
-- Datos de entrada:
+2.- PRUEBA FUNCIONAL:
+  
+  - Datos de entrada:
 
 Serán dos valores separados por uno o varios espacios o saltos de línea. Por ejemplo:
 
